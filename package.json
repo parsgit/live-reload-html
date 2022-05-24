@@ -1,6 +1,6 @@
 {
   "name": "live-reload-html",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Live Reload html body and styles When a change is applied",
   "main": "live-reload-html.js",
   "scripts": {
