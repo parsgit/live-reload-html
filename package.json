@@ -1,0 +1,22 @@
+{
+  "name": "live-reload-html",
+  "version": "1.0.0",
+  "description": "Live Reload html body and styles When a change is applied",
+  "main": "live-reload-html.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parsgit/live-reload-html.git"
+  },
+  "keywords": [
+    "live-reload-html"
+  ],
+  "author": "benyamin-khalife",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parsgit/live-reload-html/issues"
+  },
+  "homepage": "https://github.com/parsgit/live-reload-html#readme"
+}
